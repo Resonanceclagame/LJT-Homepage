@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: 'On the Universal Truthfulness Hyperplane Inside LLMs'
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publications/universal-truthfulness-hyperplane/
+excerpt: 'On the universal truthfulness hyperplane inside large language models.'
+date: 2024-01-01
+venue: 'EMNLP 2024'
+authors:
+  - Junteng Liu
+  - Shiqi Chen
+  - Yu Cheng
+  - Junxian He
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>EMNLP 2024</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Conference paper. First author.
