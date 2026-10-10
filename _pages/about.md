@@ -47,19 +47,19 @@ I was honored to receive the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong
 ### Journal / Arxiv Papers
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)  
-   Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, **Junteng Liu**, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *arXiv preprint*  
    [Code](https://github.com/)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)  
-   Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, **Junteng Liu**, Junxian He  
+   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *arXiv preprint*  
    [Code (Vision4Chart)](https://github.com/)
 
 ### Conference Papers
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** — EMNLP 2024  
-   Shiqi Chen, Yu Cheng, **Junteng Liu**, Junxian He  
+   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
    [Code (Universal_Truthfulness_Hyperplane)](https://github.com/)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — ICML 2024  
