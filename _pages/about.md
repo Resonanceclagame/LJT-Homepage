@@ -1,9 +1,6 @@
 ---
 permalink: /
 title: "Junteng Liu"
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 I am a first-year PhD candidate in Computer Science at the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
