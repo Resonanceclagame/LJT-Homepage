@@ -4,10 +4,13 @@ on:
   # Run after bad-pr check
   workflow_run:
     workflows: ["Cleanup bad PR"]
-    branches: [main]
+    branches: [master]
     types:
       - completed
-      
+
+  # Allows a build check without deploying the site
+  workflow_dispatch:
+
 permissions:
   contents: read
 
